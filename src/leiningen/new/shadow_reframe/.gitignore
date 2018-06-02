@@ -1,0 +1,7 @@
+.DS_Store
+/*.log
+/target
+/node_modules
+/resources/public/js/compiled
+/resources/public/css/site.css
+out
