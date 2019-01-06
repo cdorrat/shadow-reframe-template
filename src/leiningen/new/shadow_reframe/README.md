@@ -34,5 +34,5 @@ When the clojure script repl opens & a browser has connected select the clojures
 
 ### Release application:
 
-```shadow-cljs release browers```
+```shadow-cljs release browser```
 
